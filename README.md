@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Solidity Projects
 
 ```shell
 npx hardhat help
